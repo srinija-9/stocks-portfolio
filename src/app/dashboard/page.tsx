@@ -402,7 +402,7 @@ const StockDashboard: React.FC = () => {
           <p className={"text-sm"}>{totalGainPercent?.toFixed(2)}%</p>
         </div>
       ),
-      color: "bg-black",
+      color: "bg-[#102f53]",
     },
   ];
 
@@ -455,7 +455,7 @@ const StockDashboard: React.FC = () => {
           summaryMetrics.map((card) => (
             <div
               key={card.label}
-              className={`text-right text-white px-4 py-2 ${card.color} rounded-lg h-[120px] w-[220px] flex flex-col justify-center`}
+              className={`text-left text-white px-4 py-2 ${card.color} rounded-lg h-[120px] w-[220px] flex flex-col justify-center`}
             >
               {/* <div className="justify-self-start">
                 <Sparkle className="w-4 h-4" />
@@ -471,10 +471,10 @@ const StockDashboard: React.FC = () => {
         {["Dashboard", "Sector Analysis"]?.map((tab) => (
           <button
             key={tab}
-            className={`px-6 py-2 text-lg rounded-t-lg font-semibold focus:outline-none border-b-2 cursor-pointer ${
+            className={`px-6 py-2 text-lg rounded-t-lg font-semibold focus:outline-none cursor-pointer ${
               activeTab == tab
-                ? "border-blue-700 text-blue-700"
-                : "border-black text-black"
+                ? " border-b-2 border-blue-700 text-blue-700"
+                : "text-gray-500"
             } shadow`}
             onClick={() => setActiveTab(tab)}
           >

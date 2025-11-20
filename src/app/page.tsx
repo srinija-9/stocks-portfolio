@@ -12,7 +12,7 @@ const Page = () => {
 
   return (
     <div>
-      <p>Redirecting to Dashboard...</p>
+      <p className="pt-10">Redirecting to Dashboard...</p>
     </div>
   );
 };
