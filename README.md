@@ -12,10 +12,10 @@ This project implements a custom portfolio dashboard using Next.js, fetching rea
 | :--------------------- | :------------------------- |
 | **Frontend Framework** | Next.js (React)            |
 | **Language**           | TypeScript                 |
-| **Styling**            | [Tailwind CSS]             |
-| **API**                | [RapidAPI (Yahoo Finance)] |
-| **Data Tables**        | [React Table]              |
-| **Charting Library**   | [Recharts]                 |
+| **Styling**            | Tailwind CSS             |
+| **API**                | RapidAPI (Yahoo Finance) |
+| **Data Tables**        | React Table              |
+| **Charting Library**   | Recharts                 |
 
 ---
 
