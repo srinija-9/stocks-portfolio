@@ -1,0 +1,262 @@
+[
+    {
+        "sector": "Banking",
+        "particular": "HDFC Bank",
+        "ticker": "HDB",
+        "purchasePrice": 1490,
+        "qty": 50,
+        "investment": 74500,
+        "portfolioPercent": 5,
+        "sec": "NYQ"
+    },
+    {
+        "sector": "Banking",
+        "particular": "Bajaj Finance",
+        "ticker": "BAJFINANCE.NS",
+        "purchasePrice": 6466,
+        "qty": 15,
+        "investment": 96990,
+        "portfolioPercent": 6,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Banking",
+        "particular": "ICICI Bank",
+        "ticker": "IBN.BA",
+        "purchasePrice": 780,
+        "qty": 84,
+        "investment": 65520,
+        "portfolioPercent": 4,
+        "sec": "BUE"
+    },
+    {
+        "sector": "Banking",
+        "particular": "Bajaj Housing",
+        "ticker": "BAJAJHFL.NS",
+        "purchasePrice": 130,
+        "qty": 504,
+        "investment": 65520,
+        "portfolioPercent": 4,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Banking",
+        "particular": "Savani Financials",
+        "ticker": "SAVFI.BO",
+        "purchasePrice": 24,
+        "qty": 1080,
+        "investment": 25920,
+        "portfolioPercent": 2,
+        "sec": "BSE"
+    },
+    {
+        "sector": "Tech",
+        "particular": "Affle India",
+        "ticker": "AFFLE.NS",
+        "purchasePrice": 1151,
+        "qty": 50,
+        "investment": 57550,
+        "portfolioPercent": 4,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Tech",
+        "particular": "LTI Mindtree",
+        "ticker": "LTIM.BO",
+        "purchasePrice": 4775,
+        "qty": 16,
+        "investment": 76400,
+        "portfolioPercent": 5,
+        "sec": "BSE"
+    },
+    {
+        "sector": "Tech",
+        "particular": "KPIT Tech",
+        "ticker": "KPITTECH.BO",
+        "purchasePrice": 672,
+        "qty": 61,
+        "investment": 40992,
+        "portfolioPercent": 3,
+        "sec": "BSE"
+    },
+    {
+        "sector": "Tech",
+        "particular": "Tata Tech",
+        "ticker": "TATATECH.NS",
+        "purchasePrice": 1072,
+        "qty": 63,
+        "investment": 67536,
+        "portfolioPercent": 4,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Tech",
+        "particular": "BLS E-Services",
+        "ticker": "BLSE.NS",
+        "purchasePrice": 232,
+        "qty": 191,
+        "investment": 44312,
+        "portfolioPercent": 3,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Tech",
+        "particular": "Tanla",
+        "ticker": "TANLA.NS",
+        "purchasePrice": 1134,
+        "qty": 45,
+        "investment": 51030,
+        "portfolioPercent": 3,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Consumer",
+        "particular": "Dmart",
+        "ticker": "DMART.NS",
+        "purchasePrice": 3777,
+        "qty": 27,
+        "investment": 101979,
+        "portfolioPercent": 7,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Consumer",
+        "particular": "Tata Consumer",
+        "ticker": "TATACONSUM.NS",
+        "purchasePrice": 845,
+        "qty": 90,
+        "investment": 76050,
+        "portfolioPercent": 5,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Consumer",
+        "particular": "Pidilite",
+        "ticker": "PIDILITIND.NS",
+        "purchasePrice": 2376,
+        "qty": 36,
+        "investment": 85536,
+        "portfolioPercent": 6,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Power",
+        "particular": "Tata Power",
+        "ticker": "TATAPOWER.NS",
+        "purchasePrice": 224,
+        "qty": 225,
+        "investment": 50400,
+        "portfolioPercent": 3,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Power",
+        "particular": "KPI Green",
+        "ticker": "KPIGREEN.NS",
+        "purchasePrice": 875,
+        "qty": 50,
+        "investment": 43750,
+        "portfolioPercent": 3,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Power",
+        "particular": "Suzlon",
+        "ticker": "SUZLON.NS",
+        "purchasePrice": 44,
+        "qty": 450,
+        "investment": 19800,
+        "portfolioPercent": 1,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Power",
+        "particular": "Gensol",
+        "ticker": "GENSOL.NS",
+        "purchasePrice": 998,
+        "qty": 45,
+        "investment": 44910,
+        "portfolioPercent": 3,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Pipe",
+        "particular": "Hariom Pipes",
+        "ticker": "HARIOMPIPE.NS",
+        "purchasePrice": 580,
+        "qty": 60,
+        "investment": 34800,
+        "portfolioPercent": 2,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Pipe",
+        "particular": "Astral",
+        "ticker": "ASTRAL.NS",
+        "purchasePrice": 1517,
+        "qty": 56,
+        "investment": 84952,
+        "portfolioPercent": 6,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Pipe",
+        "particular": "Polycab",
+        "ticker": "POLYCAB.NS",
+        "purchasePrice": 2818,
+        "qty": 28,
+        "investment": 78904,
+        "portfolioPercent": 5,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Others",
+        "particular": "Clean Science",
+        "ticker": "CLEAN.NS",
+        "purchasePrice": 1610,
+        "qty": 32,
+        "investment": 51520,
+        "portfolioPercent": 3,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Others",
+        "particular": "Deepak Nitrite",
+        "ticker": "DEEPAKNTR.NS",
+        "purchasePrice": 2248,
+        "qty": 27,
+        "investment": 60696,
+        "portfolioPercent": 4,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Others",
+        "particular": "Fine Organic",
+        "ticker": "FINEORG.NS",
+        "purchasePrice": 4284,
+        "qty": 16,
+        "investment": 68544,
+        "portfolioPercent": 4,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Others",
+        "particular": "Gravita",
+        "ticker": "GRAVITA.NS",
+        "purchasePrice": 2037,
+        "qty": 8,
+        "investment": 16296,
+        "portfolioPercent": 1,
+        "sec": "NSE"
+    },
+    {
+        "sector": "Others",
+        "particular": "SBI Life",
+        "ticker": "SBILIFE.NS",
+        "purchasePrice": 1197,
+        "qty": 49,
+        "investment": 58653,
+        "portfolioPercent": 4,
+        "sec": "NSE"
+    }
+]
